@@ -1,9 +1,11 @@
 # Onions Dataset
 
 Onions Price and Quantity Dataset in India
+Access Year-wiseise dataset in `/data` library
 
-Source: http://nhrdf.org/en-us/DatabaseReports
-About: This is the website of National Horticultural Research & Development Foundation (NHRDF) and maintains a database on Market Arrivals and Price, Area and Production and Export Data for three commodities - Garlic, Onion and Potatoes. It also has data from 1996 onwards and has only got one form to fill to get the data in a tabular form.
+*Source*: http://nhrdf.org/en-us/DatabaseReports
+
+*About*: This is the website of National Horticultural Research & Development Foundation (NHRDF) and maintains a database on Market Arrivals and Price, Area and Production and Export Data for three commodities - Garlic, Onion and Potatoes. It also has data from 1996 onwards and has only got one form to fill to get the data in a tabular form.
 
 Uses the Data Wise Market Arrivals and Price Data
 
